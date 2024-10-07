@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = donovan.trigant@gmail.com
+	name = Donovan Trigant
